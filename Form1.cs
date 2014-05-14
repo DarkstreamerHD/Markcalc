@@ -131,14 +131,21 @@ namespace NotenrechnerII
             {
                 CalculateLowSection(); 
             }
+            else
+            {
+                labelError.Text = "Error";
+            }
         }
 
 
 
         //6+, 5-6, 5-, 5, 5+, 4-5, 
         private void CalculateLowSection(){
-            double diff = maxPoints - realPoints;
+            double diff = maxPoints - points4Minus;
             double sechstel = diff / 6;
+            double markNumber = (points4Minus - realPoints) / sechstel;
+
+         
 
         
     

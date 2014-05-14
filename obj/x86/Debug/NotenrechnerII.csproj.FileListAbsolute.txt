@@ -1,0 +1,18 @@
+C:\Users\Niklas\AppData\Local\Temporary Projects\NotenrechnerII\bin\Debug\NotenrechnerII.exe
+C:\Users\Niklas\AppData\Local\Temporary Projects\NotenrechnerII\bin\Debug\NotenrechnerII.pdb
+C:\Users\Niklas\AppData\Local\Temporary Projects\NotenrechnerII\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Niklas\AppData\Local\Temporary Projects\NotenrechnerII\obj\x86\Debug\NotenrechnerII.Form1.resources
+C:\Users\Niklas\AppData\Local\Temporary Projects\NotenrechnerII\obj\x86\Debug\NotenrechnerII.Properties.Resources.resources
+C:\Users\Niklas\AppData\Local\Temporary Projects\NotenrechnerII\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Niklas\AppData\Local\Temporary Projects\NotenrechnerII\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Niklas\AppData\Local\Temporary Projects\NotenrechnerII\obj\x86\Debug\NotenrechnerII.exe
+C:\Users\Niklas\AppData\Local\Temporary Projects\NotenrechnerII\obj\x86\Debug\NotenrechnerII.pdb
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\obj\x86\Debug\NotenrechnerII.exe
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\obj\x86\Debug\NotenrechnerII.pdb
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\bin\Debug\NotenrechnerII.exe
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\bin\Debug\NotenrechnerII.pdb
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\obj\x86\Debug\NotenrechnerII.Form1.resources
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\obj\x86\Debug\NotenrechnerII.Properties.Resources.resources
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\obj\x86\Debug\GenerateResource.write.1.tlog

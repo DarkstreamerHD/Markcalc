@@ -1,0 +1,13 @@
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\bin\Release\NotenrechnerII.exe.manifest
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\bin\Release\NotenrechnerII.application
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\bin\Release\NotenrechnerII.exe
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\bin\Release\NotenrechnerII.pdb
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\obj\x86\Release\ResolveAssemblyReference.cache
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\obj\x86\Release\NotenrechnerII.Form1.resources
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\obj\x86\Release\NotenrechnerII.Properties.Resources.resources
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\obj\x86\Release\GenerateResource.read.1.tlog
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\obj\x86\Release\GenerateResource.write.1.tlog
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\obj\x86\Release\NotenrechnerII.exe.manifest
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\obj\x86\Release\NotenrechnerII.application
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\obj\x86\Release\NotenrechnerII.exe
+d:\dokumente\visual studio 2010\Projects\NotenrechnerII\NotenrechnerII\obj\x86\Release\NotenrechnerII.pdb

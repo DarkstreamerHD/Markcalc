@@ -141,10 +141,39 @@ namespace NotenrechnerII
 
         //6+, 5-6, 5-, 5, 5+, 4-5, 
         private void CalculateLowSection(){
-            double diff = maxPoints - points4Minus;
+            double diff = points4Minus - maxPoints6;
             double sechstel = diff / 6;
             double markNumber = (points4Minus - realPoints) / sechstel;
 
+            if (markNumber>= 0 && markNumber < 1)
+            {
+                labelResult.Text = "4-5"; 
+            }
+
+            if (markNumber >= 1 && markNumber < 2)
+            {
+                labelResult.Text = "5+";
+            }
+            if (markNumber >= 2 && markNumber < 3)
+            {
+                labelResult.Text = "5";
+            }
+            if (markNumber >= 3 && markNumber < 4)
+            {
+                labelResult.Text = "5-";
+            }
+            if (markNumber >= 4 && markNumber < 5)
+            {
+                labelResult.Text = "5-6";
+            }
+            if (markNumber >= 5 && markNumber <= 6)
+            {
+                labelResult.Text = "6+";
+            }
+            //else
+            //{
+              //  labelError.Text = "Math Error bitte melden";
+            //}
          
 
         

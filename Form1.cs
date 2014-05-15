@@ -119,7 +119,7 @@ namespace NotenrechnerII
             {
                 labelResult.Text = "1";
             }
-            if (realPoints == maxPoints6)
+            if (realPoints <= maxPoints6)
             {
                 labelResult.Text = "6";
             }
@@ -131,6 +131,10 @@ namespace NotenrechnerII
             {
                 CalculateLowSection(); 
             }
+            if (realPoints > points4Minus && realPoints < minPointsOne)
+            {
+                CalculateHighSection();
+            }
             else
             {
                 labelError.Text = "Error";
@@ -139,7 +143,10 @@ namespace NotenrechnerII
 
 
 
-        //6+, 5-6, 5-, 5, 5+, 4-5, 
+        
+        
+        
+        //6+, 5-6, 5-, 5, 5+, 4-5   =>  6
         private void CalculateLowSection(){
             double diff = points4Minus - maxPoints6;
             double sechstel = diff / 6;
@@ -182,7 +189,63 @@ namespace NotenrechnerII
     
             }
 
-      
+        //1-, 1-2, 2+, 2, 2-, 2-3, 3+, 3, 3-, 3-4, 4+, 4    => 12
+        private void CalculateHighSection() {
+            double diff = minPointsOne - points4Minus;
+            double zwölftel = diff / 12;
+            double markNumber = (minPointsOne - realPoints) / zwölftel;
+
+            if (markNumber >= 0 && markNumber < 1)
+            {
+                labelResult.Text = "1-";
+            }
+
+            if (markNumber >= 1 && markNumber < 2)
+            {
+                labelResult.Text = "1-2";
+            }
+            if (markNumber >= 2 && markNumber < 3)
+            {
+                labelResult.Text = "2+";
+            }
+            if (markNumber >= 3 && markNumber < 4)
+            {
+                labelResult.Text = "2";
+            }
+            if (markNumber >= 4 && markNumber < 5)
+            {
+                labelResult.Text = "2-";
+            }
+            if (markNumber >= 5 && markNumber <= 6)
+            {
+                labelResult.Text = "2-3";
+            }
+            if (markNumber >= 6 && markNumber < 7)
+            {
+                labelResult.Text = "3+";
+            }
+            if (markNumber >= 7 && markNumber < 8)
+            {
+                labelResult.Text = "3";
+            }
+            if (markNumber >= 8 && markNumber < 9)
+            {
+                labelResult.Text = "3-";
+            }
+            if (markNumber >= 9 && markNumber < 10)
+            {
+                labelResult.Text = "3-4";
+            }
+            if (markNumber >= 10 && markNumber < 11)
+            {
+                labelResult.Text = "4+";
+            }
+            if (markNumber >= 11 && markNumber <= 12)
+            {
+                labelResult.Text = "4";
+            }
+        
+        }
 
 
 

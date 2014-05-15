@@ -119,7 +119,7 @@ namespace NotenrechnerII
             {
                 labelResult.Text = "1";
             }
-            if (realPoints < maxPoints6)
+            if (realPoints == maxPoints6)
             {
                 labelResult.Text = "6";
             }
